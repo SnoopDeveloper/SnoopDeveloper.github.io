@@ -9,7 +9,7 @@ const mobileAndTabletCheck = () => /Android|webOS|iPhone|iPad|iPod|BlackBerry|IE
 $(document).ready(() => {
   const links = [
     {
-      name: 'Unhittable',
+      name: 'Discord',
       link: 'discord.gg/vhewTy4CyW',
     },
     {
@@ -46,7 +46,7 @@ $(document).ready(() => {
     app.shouldIgnoreVideo = true;
   }
 
-  app.titleChanger(['Unhittable OVHS', 'Best Cheats', 'OP Feautures', 'Gamer', 'Chill','anime lover'])
+  app.titleChanger(['Ovh Vpn', 'decent Cheats', 'more Feautures', 'Gamer', 'Chill','anime lover'])
   app.iconChanger(['assets/icons/roses/rose1.jpg', 'assets/icons/roses/rose7.jpg', 'assets/icons/roses/rose8.jpg', 'assets/icons/roses/rose1.jpg', 'assets/icons/roses/rose7.jpg', 'assets/icons/roses/rose8.jpg', 'assets/icons/roses/rose1.jpg', 'assets/icons/roses/rose7.jpg', 'assets/icons/roses/rose8.jpg']);
 });
 
