@@ -10,7 +10,7 @@ $(document).ready(() => {
   const links = [
     {
       name: 'Discord',
-      link: 'discord.gg/vhewTy4CyW',
+      link: 'discord.gg/uUJeK3x24h',
     },
     {
       name: 'SnoopDev',
@@ -46,7 +46,7 @@ $(document).ready(() => {
     app.shouldIgnoreVideo = true;
   }
 
-  app.titleChanger(['Ovh Vpn', 'decent Cheats', 'more Feautures', 'Gamer', 'Chill','anime lover'])
+  app.titleChanger(['Chill', 'Dev', 'Gamer', 'nfos', 'ddoser',''])
   app.iconChanger(['assets/icons/roses/rose1.jpg', 'assets/icons/roses/rose7.jpg', 'assets/icons/roses/rose8.jpg', 'assets/icons/roses/rose1.jpg', 'assets/icons/roses/rose7.jpg', 'assets/icons/roses/rose8.jpg', 'assets/icons/roses/rose1.jpg', 'assets/icons/roses/rose7.jpg', 'assets/icons/roses/rose8.jpg']);
 });
 

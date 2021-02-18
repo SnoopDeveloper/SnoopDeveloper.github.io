@@ -1,7 +1,3 @@
-// Made by Lummit - https://obnoxious.club/ | https://github.com/Lumm1t/ | Discord: Lummit#0201
-// Credits to expl0it, shellcode.team
-// GitHub: https://github.com/Lumm1t/obnoxious.club
-
 class _app {
   id = 0;
   videoElement = null;
@@ -13,7 +9,7 @@ class _app {
   shouldIgnoreVideo = false;
   effects = ['bounce', 'flash', 'pulse', 'rubberBand', 'shake', 'swing', 'tada', 'wobble', 'jello','headShake','jello','heartbeat','bounceIn','bounceInDown',
 			'bounceInLeft','fadeIn','fadeInDown','flip','flipInX','flipInY','rotateIn','rotateInDownLeft','slideInLeft','slideInDown','zoomIn','zoomInDown','jackInTheBox','zoomInLeft'];
-  brandDescription = ['Cheat Dev', 'Valorant', 'Sea Of thieves', 'Among us', 'Ark', 'Csgo','Rust','Roblox','SnoopDev#6969'];
+  brandDescription = ['Cheat Dev', 'EOT', 'Sea Of thieves', 'Rust', 'Ark', 'Discord:','SnoopDev#6960'];
 
   titleChanger = (text, delay) => {
     if (!text) return;
